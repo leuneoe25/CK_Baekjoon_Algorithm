@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5585 거스름돈", "5585 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25305 커트라인", "25305 커트라인\25305 커트라인.vcxproj", "{06BB79DC-20F9-441D-8312-06558C679955}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1475 방 번호", "1475 방 번호\1475 방 번호.vcxproj", "{00166955-2139-4F79-94F4-46C05F28BE77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{06BB79DC-20F9-441D-8312-06558C679955}.Release|x64.Build.0 = Release|x64
 		{06BB79DC-20F9-441D-8312-06558C679955}.Release|x86.ActiveCfg = Release|Win32
 		{06BB79DC-20F9-441D-8312-06558C679955}.Release|x86.Build.0 = Release|Win32
+		{00166955-2139-4F79-94F4-46C05F28BE77}.Debug|x64.ActiveCfg = Debug|x64
+		{00166955-2139-4F79-94F4-46C05F28BE77}.Debug|x64.Build.0 = Debug|x64
+		{00166955-2139-4F79-94F4-46C05F28BE77}.Debug|x86.ActiveCfg = Debug|Win32
+		{00166955-2139-4F79-94F4-46C05F28BE77}.Debug|x86.Build.0 = Debug|Win32
+		{00166955-2139-4F79-94F4-46C05F28BE77}.Release|x64.ActiveCfg = Release|x64
+		{00166955-2139-4F79-94F4-46C05F28BE77}.Release|x64.Build.0 = Release|x64
+		{00166955-2139-4F79-94F4-46C05F28BE77}.Release|x86.ActiveCfg = Release|Win32
+		{00166955-2139-4F79-94F4-46C05F28BE77}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
