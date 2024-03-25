@@ -37,6 +37,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1550 16진수", "1550 16진
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2902 KMP는 왜 KMP일까", "2902 KMP는 왜 KMP일까\2902 KMP는 왜 KMP일까.vcxproj", "{EEB914C0-564E-4824-BFC9-47B4BD9C2A1E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4673 셀프 넘버", "4673 셀프 넘버\4673 셀프 넘버.vcxproj", "{E2A48290-D2D5-4C52-B8A2-BB478E7B7C4E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2941 크로아티아 알파벳", "2941 크로아티아 알파벳\2941 크로아티아 알파벳.vcxproj", "{DD479680-185F-4625-9B34-0E58E9847799}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +185,22 @@ Global
 		{EEB914C0-564E-4824-BFC9-47B4BD9C2A1E}.Release|x64.Build.0 = Release|x64
 		{EEB914C0-564E-4824-BFC9-47B4BD9C2A1E}.Release|x86.ActiveCfg = Release|Win32
 		{EEB914C0-564E-4824-BFC9-47B4BD9C2A1E}.Release|x86.Build.0 = Release|Win32
+		{E2A48290-D2D5-4C52-B8A2-BB478E7B7C4E}.Debug|x64.ActiveCfg = Debug|x64
+		{E2A48290-D2D5-4C52-B8A2-BB478E7B7C4E}.Debug|x64.Build.0 = Debug|x64
+		{E2A48290-D2D5-4C52-B8A2-BB478E7B7C4E}.Debug|x86.ActiveCfg = Debug|Win32
+		{E2A48290-D2D5-4C52-B8A2-BB478E7B7C4E}.Debug|x86.Build.0 = Debug|Win32
+		{E2A48290-D2D5-4C52-B8A2-BB478E7B7C4E}.Release|x64.ActiveCfg = Release|x64
+		{E2A48290-D2D5-4C52-B8A2-BB478E7B7C4E}.Release|x64.Build.0 = Release|x64
+		{E2A48290-D2D5-4C52-B8A2-BB478E7B7C4E}.Release|x86.ActiveCfg = Release|Win32
+		{E2A48290-D2D5-4C52-B8A2-BB478E7B7C4E}.Release|x86.Build.0 = Release|Win32
+		{DD479680-185F-4625-9B34-0E58E9847799}.Debug|x64.ActiveCfg = Debug|x64
+		{DD479680-185F-4625-9B34-0E58E9847799}.Debug|x64.Build.0 = Debug|x64
+		{DD479680-185F-4625-9B34-0E58E9847799}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD479680-185F-4625-9B34-0E58E9847799}.Debug|x86.Build.0 = Debug|Win32
+		{DD479680-185F-4625-9B34-0E58E9847799}.Release|x64.ActiveCfg = Release|x64
+		{DD479680-185F-4625-9B34-0E58E9847799}.Release|x64.Build.0 = Release|x64
+		{DD479680-185F-4625-9B34-0E58E9847799}.Release|x86.ActiveCfg = Release|Win32
+		{DD479680-185F-4625-9B34-0E58E9847799}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
