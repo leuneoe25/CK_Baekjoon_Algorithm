@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9086 문자열", "9086 문�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17478", "17478\17478.vcxproj", "{36663B00-0E6C-4FEB-A65A-17122ED98450}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2441 별찍기-4", "2441 별찍기-4\2441 별찍기-4.vcxproj", "{8CDF39F3-A408-4508-88F7-4FDD70622043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{36663B00-0E6C-4FEB-A65A-17122ED98450}.Release|x64.Build.0 = Release|x64
 		{36663B00-0E6C-4FEB-A65A-17122ED98450}.Release|x86.ActiveCfg = Release|Win32
 		{36663B00-0E6C-4FEB-A65A-17122ED98450}.Release|x86.Build.0 = Release|Win32
+		{8CDF39F3-A408-4508-88F7-4FDD70622043}.Debug|x64.ActiveCfg = Debug|x64
+		{8CDF39F3-A408-4508-88F7-4FDD70622043}.Debug|x64.Build.0 = Debug|x64
+		{8CDF39F3-A408-4508-88F7-4FDD70622043}.Debug|x86.ActiveCfg = Debug|Win32
+		{8CDF39F3-A408-4508-88F7-4FDD70622043}.Debug|x86.Build.0 = Debug|Win32
+		{8CDF39F3-A408-4508-88F7-4FDD70622043}.Release|x64.ActiveCfg = Release|x64
+		{8CDF39F3-A408-4508-88F7-4FDD70622043}.Release|x64.Build.0 = Release|x64
+		{8CDF39F3-A408-4508-88F7-4FDD70622043}.Release|x86.ActiveCfg = Release|Win32
+		{8CDF39F3-A408-4508-88F7-4FDD70622043}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
