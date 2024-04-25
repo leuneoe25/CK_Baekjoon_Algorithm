@@ -32,8 +32,6 @@ int main()
 	int numCount = 0;
 	int num = 0;
 
-	//cout << checkNumder(666)<<endl;
-
 	while (numCount < N)
 	{
 		num++;
